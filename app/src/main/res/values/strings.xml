@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetpackComposebegginer</string>
+    <string name="title_activity_com_pose_with_toolbar">ComPoseWithToolbar</string>
 </resources>

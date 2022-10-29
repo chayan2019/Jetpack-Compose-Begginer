@@ -65,7 +65,7 @@ class ComposeWithTextView : ComponentActivity() {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text("Second  Page", color = Color.White) },
+                    title = { Text("jetpack Compose with TextView", color = Color.White) },
                     backgroundColor = Color(0xff0f9d58)
                 )
             },
